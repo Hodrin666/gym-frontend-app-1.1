@@ -3,7 +3,7 @@ import ImageCropPicker from 'react-native-image-crop-picker';
 
 import EditScreenInfo from '../components/EditScreenInfo';
 import { Text, View } from '../components/Themed';
-import { RootTabScreenProps } from '../types';
+import { RootTabScreenProps } from '../../types';
 import ImagePicker from 'react-native-image-crop-picker';
 
 const handleImage = () => {
